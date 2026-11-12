@@ -47,7 +47,7 @@ The working methods behind each product, free to use without it:
 
 <br>
 
-## Elsewhere
+## On the side
 
 **[audx](https://github.com/chrisschouk/audx)** &nbsp;<sub>Python</sub><br>
 A small terminal DAW I made for fun, with Ableton export.
